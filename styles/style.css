@@ -495,9 +495,7 @@ hr {
     width: 50px;
 }
 .social img:hover {
-    background-color: #484242;
-    width: 60px;
-    border-radius: 50%;
+    transform: scale(1.1);
 }
 .footer-cr {
     text-align: center;
