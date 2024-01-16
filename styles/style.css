@@ -36,7 +36,7 @@ nav li a {
 
 .banner {
     margin-top: 3rem;
-    background-image: linear-gradient(rgba(49, 47, 47, 0.527), rgba(45, 45, 45, 0.5)), url("/Images/Group\ 13\ \(1\)\ \(1\).png");
+    background-image: linear-gradient(rgba(49, 47, 47, 0.527), rgba(45, 45, 45, 0.5)), url("../Images/Group\ 13\ \(1\)\ \(1\).png");
     width: 1260px;
     height: 600px;
     background-repeat: no-repeat;
@@ -274,16 +274,16 @@ nav li a {
 }
 
 #bg-1 {
-    background-image: url('/Images/Group\ 39.png');
+    background-image: url('../Images/Group\ 39.png');
 
 }
 
 #bg-2 {
-    background-image: url('/Images/Group\ 40.png');
+    background-image: url('../Images/Group\ 40.png');
 }
 
 #bg-3 {
-    background-image: url('/Images/Group\ 39.png');
+    background-image: url('../Images/Group\ 39.png');
 }
 
 .transparent-container {
