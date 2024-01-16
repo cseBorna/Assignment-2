@@ -527,35 +527,30 @@ hr{
         margin-bottom: 10px;
     }
 
-    /* .banner {
-        margin-top: 3rem;
-        background-image: linear-gradient(rgba(49, 47, 47, 0.527), rgba(45, 45, 45, 0.5)), url("../Images/Group 13 (1) (1).png");
-        width: 100%;
-        max-width: 1260px;
-        height: 500px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
-        border-radius: 20px;
-    } */
+    .banner {
+        height: auto;
+        width:480px;
+    }
 
     .banner-heading {
-        font-size: 32px;
-        padding: 50px 20px 0 20px;
+        font-size: 40px; /* Adjusted font size for responsiveness */
+        padding: 50px 10px 0px 10px; /* Adjusted padding for responsiveness */
     }
 
     .banner-content {
-        font-size: 14px;
-        padding: 10px 20px 20px 20px;
+        font-size: 14px; /* Adjusted font size for responsiveness */
+        padding: 10px; /* Adjusted padding for responsiveness */
     }
 
-    input {
-        width: 100%;
-        margin: 10px 0;
-        box-sizing: border-box;
+    .banner-input {
+        width: 100%; /* Adjusted width for responsiveness */
+        margin-right: 0; /* Adjusted margin for responsiveness */
     }
 
-
+    .banner-form {
+        margin-right: 10px; /* Adjusted margin for responsiveness */
+        margin-left: 10px; /* Adjusted margin for responsiveness */
+    }
 
     .section1 {
         flex-direction: column;
