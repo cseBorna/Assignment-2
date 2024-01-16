@@ -527,9 +527,9 @@ hr{
         margin-bottom: 10px;
     }
 
-    .banner {
+    /* .banner {
         margin-top: 3rem;
-        background-image: linear-gradient(rgba(49, 47, 47, 0.527), rgba(45, 45, 45, 0.5)), url("/Images/Group 13 (1) (1).png");
+        background-image: linear-gradient(rgba(49, 47, 47, 0.527), rgba(45, 45, 45, 0.5)), url("../Images/Group 13 (1) (1).png");
         width: 100%;
         max-width: 1260px;
         height: 500px;
@@ -537,7 +537,7 @@ hr{
         background-size: cover;
         background-position: center;
         border-radius: 20px;
-    }
+    } */
 
     .banner-heading {
         font-size: 32px;
