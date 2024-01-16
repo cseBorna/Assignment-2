@@ -533,23 +533,23 @@ hr{
     }
 
     .banner-heading {
-        font-size: 40px; /* Adjusted font size for responsiveness */
-        padding: 50px 10px 0px 10px; /* Adjusted padding for responsiveness */
+        font-size: 40px; 
+        padding: 50px 10px 0px 10px;
     }
 
     .banner-content {
-        font-size: 14px; /* Adjusted font size for responsiveness */
-        padding: 10px; /* Adjusted padding for responsiveness */
+        font-size: 14px; 
+        padding: 10px; 
     }
 
     .banner-input {
-        width: 100%; /* Adjusted width for responsiveness */
-        margin-right: 0; /* Adjusted margin for responsiveness */
+        width: 100%; 
+        margin-right: 0; 
     }
 
     .banner-form {
-        margin-right: 10px; /* Adjusted margin for responsiveness */
-        margin-left: 10px; /* Adjusted margin for responsiveness */
+        margin-right: 10px;
+        margin-left: 10px; 
     }
 
     .section1 {
